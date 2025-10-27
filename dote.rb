@@ -2,7 +2,7 @@ class Dote < Formula
   desc "dot e command"
   homepage "https://github.com/takesako/homebrew-dote"
   url "https://raw.githubusercontent.com/takesako/homebrew-dote/main/dote.c"
-  sha256 "e3608cfe6a45430b85ace5c7beb494cc934eaf574d7c49c43603702e18fb30e3"
+  sha256 "7ddc3f07511cee132bc745910c8475dccf0b4624f69860a22692d17b56298b12"
   version "1.0.0"
 
   def install
